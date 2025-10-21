@@ -11,7 +11,7 @@
 
 
   // ★ここにBlob Storeのロゴ画像のURLを貼る
-  const logo_img_url = "<ロゴ画像のURL>";
+  const logo_img_url = "https://quviqcgdqr0re3pm.public.blob.vercel-storage.com/vercel_tutorial/logo.png";
 
   // メッセージが追加されるたびに実行される$effect
   $effect(() => {
